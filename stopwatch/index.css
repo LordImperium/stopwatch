@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
